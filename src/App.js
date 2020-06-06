@@ -10,6 +10,9 @@ function App() {
         <p>
           Docker - Travis CI - AWS
         </p>
+        <p>
+          Awesome!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
